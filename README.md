@@ -1,7 +1,6 @@
 # NFT Website
 
-This website was specifically designed to ease the common confusion around NFTs (Non-Fungible Tokens). NFTs are one of the most misinterpreted topics on cryptocurrency and can be quite confusing to understand. After leaving this website, I hope to have made your overall understanding of NFTs to be much more advanced, and to possibly interest you in buying your first NFT. Check out our NFT explanation if you want to know what NFTs are, or our FAQ page for a summed up version of NFTs.
-
+I have developed this website with the specific intention of clarifying the prevalent confusion surrounding Non-Fungible Tokens (NFTs), a topic often misconstrued in the realm of cryptocurrency. The intricacies associated with understanding NFTs can be quite overwhelming. My aim is that, upon navigating through this platform, I will have significantly advanced your overall comprehension of NFTs and perhaps kindled your interest in acquiring your first NFT. Explore my comprehensive NFT explanation for a deep dive into the subject, or peruse the FAQ page for a succinct overview of NFTs.
 
 # Link
 
